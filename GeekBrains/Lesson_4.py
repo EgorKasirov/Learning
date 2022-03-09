@@ -56,3 +56,4 @@ for letter in my_list_1:
         new_list.append(letter)
     
 print(new_list)
+print('добавил вывод')
